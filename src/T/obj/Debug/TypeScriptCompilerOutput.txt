@@ -1,0 +1,6 @@
+D:\Files\Projects\T\src\T\wwwroot\app\app.component.js
+D:\Files\Projects\T\src\T\wwwroot\app\app.component.js.map
+D:\Files\Projects\T\src\T\wwwroot\app\app.module.js
+D:\Files\Projects\T\src\T\wwwroot\app\app.module.js.map
+D:\Files\Projects\T\src\T\wwwroot\app\main.js
+D:\Files\Projects\T\src\T\wwwroot\app\main.js.map
